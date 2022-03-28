@@ -1,9 +1,13 @@
-Alpha 1.2 TyloBot
-Corrigido:
+
+> Alpha 1.2 TyloBot <
+
++ Corrigido:
 -- Bugs nos comandos >r, >add e > d
 
-Melhorado:
++ Melhorado:
 -- Aparência dos outputs de todos os comandos
+-- Melhora na segurança do token do bot
 
-Adicionado:
++ Adicionado:
 -- Nada :P
+
