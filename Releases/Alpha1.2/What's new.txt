@@ -1,0 +1,9 @@
+Alpha 1.2 TyloBot
+Corrigido:
+-- Bugs nos comandos >r, >add e > d
+
+Melhorado:
+-- Aparência dos outputs de todos os comandos
+
+Adicionado:
+-- Nada :P
