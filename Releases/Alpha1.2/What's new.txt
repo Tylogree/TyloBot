@@ -3,6 +3,7 @@
 
 + Corrigido:
 -- Bugs nos comandos >r, >add e > d
+-- Se o arquivo data.txt não existir, cria-se automaticamente
 
 + Melhorado:
 -- Aparência dos outputs de todos os comandos
