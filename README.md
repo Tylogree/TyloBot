@@ -9,3 +9,4 @@
 >Para obter ajuda sobre um comando específico, basta inserir `>help *comando*`.
 >
 ###### *Criado por Marco Túlio, Tylogree#4927.*
+> https://www.mediafire.com/file/tr89liqyzceznmx/aventurinha.rar/file
